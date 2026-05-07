@@ -1,21 +1,21 @@
-# 🧠 AI Maze Game
+# AI Maze Game
 
 An AI-powered maze game integrating **path planning**, **speech recognition**, and **computer vision** into a single interactive system.
 The project demonstrates how multiple AI technologies can work together in real time through autonomous navigation, voice control, and gesture-based interaction.
 
 ---
 
-## 🚀 Features
+## Features
 
 * 🔍 **Autonomous Maze Solving**
 
   * Uses **Breadth-First Search (BFS)** to find the shortest path
 
-* 🧱 **Procedural Maze Generation**
+* **Procedural Maze Generation**
 
   * Mazes generated using **Depth-First Search (DFS) recursive backtracking**
 
-* 🎤 **Voice Control**
+* **Voice Control**
 
   * Navigate using commands such as:
 
@@ -24,12 +24,12 @@ The project demonstrates how multiple AI technologies can work together in real 
     * “Go left”
     * “Go right”
 
-* ✋ **Gesture Recognition**
+* **Gesture Recognition**
 
   * Real-time hand tracking using **MediaPipe Hands**
   * Custom gesture classification using **K-Nearest Neighbors (KNN)**
 
-* ⌨️ **Keyboard Controls**
+* **Keyboard Controls**
 
   * Supports Arrow Keys and WASD movement
 
@@ -41,7 +41,7 @@ The project demonstrates how multiple AI technologies can work together in real 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * OpenCV
@@ -53,7 +53,7 @@ The project demonstrates how multiple AI technologies can work together in real 
 
 ---
 
-## 🧠 AI Concepts Demonstrated
+## AI Concepts Demonstrated
 
 ### Path Planning
 
@@ -78,7 +78,7 @@ The project demonstrates how multiple AI technologies can work together in real 
    *Go Right
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -101,7 +101,7 @@ python maze_game.py
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Select a difficulty level
 2. Choose a control mode:
@@ -114,7 +114,7 @@ python maze_game.py
 
 ---
 
-## 🧪 Training Gesture Controls
+## Training Gesture Controls
 
 The game includes a built-in gesture training system.
 
@@ -136,7 +136,7 @@ gesture_training_data.json
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * CNN-based gesture recognition
 * Offline speech recognition
@@ -148,7 +148,7 @@ gesture_training_data.json
 
 ---
 
-## 👨‍💻 Developed By
+## Developed By
 
 **Njeba**
 
